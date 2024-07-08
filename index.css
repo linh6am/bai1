@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 140px;
+    width: 100%;
+    /* border: 1px black solid; */
+
+}
+
+.nav-bar{
+    height: 50px;
+    width: 100%;
+    /* border: 1px black solid; */
+    margin-top: 5px;
+}
+
+.main{
+    height: 650px;
+    width: 100%;
+    /* border: 1px black solid; */
+    margin-top: 5px;
+}
+
+.footer{
+    height: 50px;
+    width: 100%;
+    border: 1px black solid;
+    margin-top: 5px;
+}
+
+.header .logo{
+    width: 25%;
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+}
+
+.header .banner{
+    width: calc(75% - 5px);
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 5px;
+}
+
+.main .left{
+    width: 20%;
+    height: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+
+.main .mid{
+    width: calc(50% - 5px);
+    height: 100%;
+    /* border: 1px solid black; */
+    float: left;
+    margin-left: 5px;
+}
+
+.main .right{
+    width: calc(30% - 5px);
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 5px;
+}
+
+.main .left .leftcon1{
+    width: 100%;
+    height: calc(50% - 5px);
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.main .left .leftcon2{
+    width: 100%;
+    height: 50%;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.main .mid .mid1{
+    width: calc(50% - 6px);
+    height: 30%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 5px;
+}
+
+.main .mid .mid2{
+    width: calc(50% - 6px);
+    height: 30%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.main .mid .mid3{
+    width: calc(33% - 5px);
+    height: 30%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 5px;
+}
+
+.main .mid .mid4{
+    width: calc(33% - 5px);
+    height: 30%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 5px;
+}
+
+.main .mid .mid5{
+    width: 33%;
+    height: 30%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.main .mid .mid6{
+    width: calc(33% - 5px);
+    height: 30%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 5px;
+}
+
+.main .mid .mid7{
+    width: calc(33% - 5px);
+    height: 30%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 5px;
+}
+
+.main .mid .mid8{
+    width: 33%;
+    height: 30%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 5px;
+}
+
+.nav-bar .menu1{
+    width: 75%;
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+    
+}
+
+.nav-bar .menu2{
+    width: calc(25% - 5px);
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 5px;
+}
+
+.nav-bar .menu1 .button{
+    width: 10%;
+    height: 100%;
+    float: left;
+}
+
+.nav-bar .menu1 .button{
+    
+}
